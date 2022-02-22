@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "687197364566",
+    "project_id": "whatscooking-3d284",
+    "storage_bucket": "whatscooking-3d284.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687197364566:android:974759338da2bfe1f876f7",
+        "android_client_info": {
+          "package_name": "com.zubaidalabs.whatscooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687197364566-til2f5gcia7nt0fi2t3ul60a9i0qp5ci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zubaidalabs.whatscooking",
+            "certificate_hash": "42d46f7a2334ffb743a98f4f2befbbb7a191813f"
+          }
+        },
+        {
+          "client_id": "687197364566-850sf1lipfatjftna1ksakc8i4aai1df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIR9nnfEffXgXoJKANauzrvyDB7dElS8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687197364566-850sf1lipfatjftna1ksakc8i4aai1df.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "687197364566-mma0d8r8880opj02kurcnoma81jsvbd2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zubaidalabs.whatscooking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

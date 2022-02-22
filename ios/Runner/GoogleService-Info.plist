@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>687197364566-mma0d8r8880opj02kurcnoma81jsvbd2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.687197364566-mma0d8r8880opj02kurcnoma81jsvbd2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>687197364566-til2f5gcia7nt0fi2t3ul60a9i0qp5ci.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBn3_YaP3IvIMQKUAbB5TtBwR2InCfOINs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>687197364566</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.zubaidalabs.whatscooking</string>
+	<key>PROJECT_ID</key>
+	<string>whatscooking-3d284</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whatscooking-3d284.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:687197364566:ios:7a0d78e6185ddb28f876f7</string>
+	<key>DATABASE_URL</key>
+	<string>https://whatscooking-3d284-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
